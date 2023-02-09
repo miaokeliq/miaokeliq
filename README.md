@@ -10,7 +10,7 @@
 🌱 &nbsp;博客主页：[https://www.mespace.fun](www.mespace.fun).\
 ✍️ &nbsp;掘金主页：[https://juejin.cn/user/4253357955616663](https://juejin.cn/user/4253357955616663).\
 💬 &nbsp;微信：MklZjh1107,欢迎学习交流.\
-🚀 &nbsp;愿所有的汗水都有收获，愿所有的努力不被辜负.\
+🚀 &nbsp;愿所有的汗水都有收获，愿所有的努力不被辜负.
 
 
 
@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Status
