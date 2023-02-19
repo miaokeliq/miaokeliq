@@ -15,10 +15,6 @@
 💬 &nbsp;微信：MklZjh1107,欢迎学习交流.\
 🚀 &nbsp;愿所有的汗水都有收获，愿所有的努力不被辜负.
 
-
-
-
-
 ### 🛠 &nbsp;技术栈
 
 <p align="center">
@@ -39,8 +35,6 @@
      <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown">
        <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
 
-
-
 ### ⚙️ &nbsp;GitHub Status
 
 <p align="center">
@@ -49,7 +43,6 @@
 </a>
 </p>
 
-
 ### 🤝🏻 &nbsp;学习交流
 
 <p align="center">
@@ -57,4 +50,9 @@
 <a href="miaokeliq@gmail.com"><img src="https://img.shields.io/badge/-miaokeliq@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@MklZjh1107_-E4405F?style=flat&logo=Wechat&logoColor=white"/></a>
 <a href="https://github.com/miaokeliq"><img src="https://img.shields.io/badge/-@miaokeliq-1877F2?style=flat&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/miaokeliq/count.svg" />
 </p>
