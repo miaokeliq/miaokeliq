@@ -13,7 +13,7 @@
 🌱 &nbsp;博客主页：[https://www.mespace.fun](https://www.mespace.fun).\
 ✍️ &nbsp;掘金主页：[https://juejin.cn/user/4253357955616663](https://juejin.cn/user/4253357955616663).\
 💬 &nbsp;微信：MklZjh1107,欢迎学习交流.\
-🚀 &nbsp;愿所有的汗水都有收获，愿所有的努力不被辜负.
+🚀 &nbsp;Not just write code, but love it !.
 
 ### 🛠 &nbsp;技术栈
 
