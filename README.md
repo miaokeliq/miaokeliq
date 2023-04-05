@@ -14,7 +14,7 @@
 ✍️ &nbsp;掘金主页：[https://juejin.cn/user/](https://juejin.cn/user/4253357955616663).\
 💬 &nbsp;微信：MklZjh1107,欢迎学习交流.\
 🚀 &nbsp;Not just write code, but love it !.\
-😈 &nbsp;有好多想写的心得(mini-vue, nvim 配置, mac效率App...)没时间写，等找到实习了全都安排上！.\
+😈 &nbsp;Too busy!找到实习后会写**mini-vue**的学习笔记和**nvim配置**以及mac上提高效率的App推荐！.\
 🔜 &nbsp;现在最想学的技术:React(主要想玩玩函数式编程，顺便还能多一门技术栈美滋滋), Svelte(想领教下Harris整的无VDom框架有多厉害)..
 
 ### 🛠 &nbsp;技术栈
