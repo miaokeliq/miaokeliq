@@ -10,9 +10,9 @@
 ### 👨🏻‍💻 &nbsp;关于我
 
 🎓 &nbsp;热衷于探索前端知识～，正在大连理工大学软件工程攻读工程硕士学位.\
-🌱 &nbsp;博客主页：[https://www.mespace.fun](https://www.mespace.fun).\
-✍️ &nbsp;掘金主页：[https://juejin.cn/user/](https://juejin.cn/user/4253357955616663).\
-💬 &nbsp;微信：MklZjh1107,欢迎学习交流.\
+🌱 &nbsp;Blog：[https://www.mespace.fun](https://www.mespace.fun).\
+✍️ &nbsp;Juejin：[https://juejin.cn/user/](https://juejin.cn/user/4253357955616663).\
+💬 &nbsp;WeChat：MklZjh1107,欢迎学习交流.\
 🚀 &nbsp;Not just write code, but love it !.\
 😈 &nbsp;Too busy!找到实习后会写**mini-vue**的学习笔记和**nvim配置**以及mac上提高效率的App推荐！.\
 🔜 &nbsp;Future plans:React(Curious about functional components), Svelte(No virtual DOM？How？)..
