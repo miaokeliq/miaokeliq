@@ -9,7 +9,7 @@
 
 ### 👨🏻‍💻 &nbsp;关于我
 
-🎓 &nbsp;热衷于探索前端知识～，正在大连理工大学软件工程攻读工程硕士学位.\
+🎓 &nbsp;正在上学.\
 🌱 &nbsp;Blog：[https://www.mespace.fun](https://www.mespace.fun).\
 ✍️ &nbsp;Juejin：[https://juejin.cn/user/](https://juejin.cn/user/4253357955616663).\
 💬 &nbsp;WeChat：MklZjh1107,欢迎学习交流.\
