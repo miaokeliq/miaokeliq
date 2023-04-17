@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
     <img src="https://img.shields.io/badge/-Neovim-408e43?style=flat&logo=neovim&logoColor=white">
 </div>
+<p></p>
 <div align="center">
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat&logo=nginx&logoColor=white">
@@ -33,6 +34,8 @@
    <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
      <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown">
        <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
+  </div>
+  
 ### ⚙️ &nbsp;GitHub Status
 
 <p align="center">
