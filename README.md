@@ -39,7 +39,7 @@
    <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
      <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown">
        <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
-  </div>
+ 
   
 ### ⚙️ &nbsp;GitHub Status
 
@@ -50,7 +50,9 @@
 </a>
 </p>
 <p></p>
+   </div>
 <div align="center">
+  
 ### 🤝🏻 &nbsp;Contact Me
 
 <p align="center">
@@ -64,3 +66,5 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/miaokeliq/count.svg" />
 </p>
+
+   </div>
