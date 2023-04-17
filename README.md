@@ -12,10 +12,8 @@
 🎓 &nbsp;正在上学.\
 🌱 &nbsp;Blog：[https://www.mespace.fun](https://www.mespace.fun).\
 ✍️ &nbsp;Juejin：[https://juejin.cn/user/](https://juejin.cn/user/4253357955616663).\
-💬 &nbsp;WeChat：MklZjh1107,欢迎学习交流.\
+💬 &nbsp;WeChat：MklZjh1107.\
 🚀 &nbsp;不满是向上的车轮.\
-😈 &nbsp;近期正在学习服务端渲染和git提交规范.\
-🔜 &nbsp;Future plans: Svelte, TailWind..
 
 ### 🛠 &nbsp;技术栈
 
