@@ -18,10 +18,10 @@
 🚀 &nbsp;.....\
 
 
-
+<div align="center">
 
 ### 🛠 &nbsp;技术栈
-
+</div>
 <p align="center">
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
