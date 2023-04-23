@@ -38,7 +38,7 @@
 <p align="center">
 <a href="https://github.com/miaokeliq">
   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=miaokeliq&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ian's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaokeliq&layout=compact&theme=buefy&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=miaokeliq&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ian's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaokeliq&layout=compact&theme=buefy&hide_border=true" />
 </a>
 </p>
 <p></p>
