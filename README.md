@@ -24,21 +24,13 @@
 </div>
 <p align="center">
 <div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript">
     <img src="https://img.shields.io/badge/-Neovim-408e43?style=flat&logo=neovim&logoColor=white">
 </div>
 <p></p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
-   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
-     <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown">
-       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
  
   
 ### ⚙️ &nbsp;GitHub Status
