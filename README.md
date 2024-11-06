@@ -9,13 +9,10 @@
 
 ### 👨🏻‍💻 &nbsp;关于我
 
-🎓 &nbsp;Where: 习酒.\
-🌱 &nbsp;Blog：[https://www.mespace.fun](https://www.mespace.fun).\
-✍️ &nbsp;Juejin：[https://juejin.cn/user/](https://juejin.cn/user/4253357955616663).\
-💬 &nbsp;WeChat：MklZjh1107.\
+
+💬 &nbsp;WeChat：miao1998ian.\
 🚀 &nbsp;不满是向上的车轮.\
-💬 &nbsp;.....\
-🚀 &nbsp;.....
+
 
 
 <div align="center">
