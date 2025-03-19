@@ -7,7 +7,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 👨🏻‍💻 &nbsp;关于我
+### 👨🏻‍💻 &nbsp;About me
 
 
 💬 &nbsp;WeChat：miao1998ian.\
